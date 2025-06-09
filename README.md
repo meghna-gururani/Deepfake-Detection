@@ -2,7 +2,7 @@
 
 This project is a web app that detects deepfake videos by analyzing facial features and motion across frames. It uses deep learning models to spot inconsistencies in face movement that are common in AI-generated videos.
 
-# What It Does
+## What It Does
 
 - Takes a short video as input
 - Extracts individual frames
